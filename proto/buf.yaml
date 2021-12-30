@@ -1,4 +1,4 @@
 version: v1
-name: github.com/Xin2050/grpc_gateway_demo
+name: buf.build/lixin/grpc-gateway-demo
 deps:
   - buf.build/googleapis/googleapis
